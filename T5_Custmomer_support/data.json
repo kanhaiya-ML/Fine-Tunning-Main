@@ -1,0 +1,1686 @@
+[
+  {
+    "input": "customer support: app keeps showing white screen",
+    "output": "I apologize for the trouble. This may be due to a temporary glitch. Please force close the app and relaunch it."
+  },
+  {
+    "input": "customer support: website takes too long to open",
+    "output": "Sorry for the delay. Our servers are experiencing high traffic. We are working to improve load times."
+  },
+  {
+    "input": "customer support: unable to complete login process",
+    "output": "I understand the inconvenience. Please try resetting your password or using a different browser."
+  },
+  {
+    "input": "customer support: order page is not loading",
+    "output": "We regret the issue. Please clear your browser cache and try again after a few minutes."
+  },
+  {
+    "input": "customer support: app stuck on loading screen",
+    "output": "Sorry about that. Please update the app to the latest version and restart your device."
+  },
+  {
+    "input": "customer support: site showing error 502",
+    "output": "I apologize for the server error. Our tech team is already working to bring the site back online."
+  },
+  {
+    "input": "customer support: checkout page freezes",
+    "output": "I understand the frustration. Please try accessing the checkout from a different device or incognito mode."
+  },
+  {
+    "input": "customer support: app logs me out automatically",
+    "output": "Sorry for the issue. Please update your app and re-login. If it persists, reinstall the app."
+  },
+  {
+    "input": "customer support: mobile site not scrolling",
+    "output": "We are sorry for the glitch. Please refresh the page or try using our app instead."
+  },
+  {
+    "input": "customer support: payment gateway not opening",
+    "output": "I apologize for the trouble. This may be a temporary bank server issue. Please retry after a while."
+  },
+  {
+    "input": "customer support: login verification code not received",
+    "output": "I understand the difficulty. Please check your spam folder and ensure your mobile number is active."
+  },
+  {
+    "input": "customer support: app crashes on iPhone",
+    "output": "Sorry for the crash. Please update iOS and the app. If problem persists, reinstall it."
+  },
+  {
+    "input": "customer support: website keeps redirecting me",
+    "output": "We are sorry for the redirect loop. Please clear site data for our domain and try again."
+  },
+  {
+    "input": "customer support: image upload not working in app",
+    "output": "I apologize for the glitch. Please check app permissions and ensure the image size is under 5 MB."
+  },
+  {
+    "input": "customer support: product page images not showing",
+    "output": "Sorry for the inconvenience. Slow connection might cause this. Please reload the page or switch to Wi-Fi."
+  },
+  {
+    "input": "customer support: live chat button not responding",
+    "output": "I apologize. Please refresh the page or contact us via email support while we fix the chat widget."
+  },
+  {
+    "input": "customer support: sign-up form not submitting",
+    "output": "Sorry for the issue. Please ensure all mandatory fields are filled and try again in a few minutes."
+  },
+  {
+    "input": "customer support: app not installing on Android",
+    "output": "I understand the problem. Please check your device storage and allow installation from unknown sources if needed."
+  },
+  {
+    "input": "customer support: browser crashed during payment",
+    "output": "I am sorry for the crash. Please check if the payment was deducted before retrying. Contact us if double charged."
+  },
+  {
+    "input": "customer support: account locked after multiple attempts",
+    "output": "For security reasons your account is temporarily locked. Please wait 30 minutes or reset your password."
+  },
+  {
+    "input": "customer support: payment deducted but order not confirmed",
+    "output": "I apologize for the inconvenience. The amount will be auto-refunded if order failed. Please allow 2 hours."
+  },
+  {
+    "input": "customer support: UPI transaction failed but amount debited",
+    "output": "Sorry about that. Banks usually reverse such debits within 48 hours. You can also share the UPI reference ID."
+  },
+  {
+    "input": "customer support: card charged but payment failed on site",
+    "output": "I understand your concern. It’s a pending authorization that will be reversed by your bank within 5-7 days."
+  },
+  {
+    "input": "customer support: coupon applied but discount not showing",
+    "output": "I am sorry for the issue. Please double-check if the coupon meets minimum order value and is still active."
+  },
+  {
+    "input": "customer support: unable to add new card for payment",
+    "output": "We apologize for the trouble. Please ensure the card supports online transactions and try again in a few minutes."
+  },
+  {
+    "input": "customer support: wallet money deducted twice",
+    "output": "Sorry for the duplicate debit. Share your wallet transaction ID and we will raise a refund request immediately."
+  },
+  {
+    "input": "customer support: refund amount less than original payment",
+    "output": "I apologize for the discrepancy. Please share the order ID so our billing team can verify the calculation."
+  },
+  {
+    "input": "customer support: paid via netbanking but order didn't go through",
+    "output": "I understand the concern. The amount will bounce back to your account within 3 business days automatically."
+  },
+  {
+    "input": "customer support: international payment declined",
+    "output": "Sorry for the decline. Your bank may be blocking the transaction. Please enable international usage or try a different card."
+  },
+  {
+    "input": "customer support: EMI option not visible at checkout",
+    "output": "I apologize for the inconvenience. EMI may not be available for some items. Please check eligible products or contact your bank."
+  },
+  {
+    "input": "customer support: cash on delivery not available for my pincode",
+    "output": "I understand. Cash on delivery availability depends on the delivery location. You can try prepaid instead."
+  },
+  {
+    "input": "customer support: order amount deducted but still showing pending",
+    "output": "We regret the delay. The payment may be under verification. It usually reflects within 30 minutes."
+  },
+  {
+    "input": "customer support: bank offer not reflected in final price",
+    "output": "I apologize. Please check if you have applied the offer correctly at the payment step using the specific bank card."
+  },
+  {
+    "input": "customer support: payment stuck after OTP verification",
+    "output": "Sorry for the issue. This may be due to connectivity. Close the session and attempt the payment after 10 minutes."
+  },
+  {
+    "input": "customer support: refund processed but showing wrong bank account",
+    "output": "I understand the confusion. Please share the transaction details and we will correct the account information."
+  },
+  {
+    "input": "customer support: multiple orders placed, need to cancel one",
+    "output": "I see the concern. You can cancel the unwanted order from the 'My Orders' section before it is shipped."
+  },
+  {
+    "input": "customer support: payment method changed after placing order",
+    "output": "Once the order is placed the payment method cannot be changed. If you need help cancel and reorder."
+  },
+  {
+    "input": "customer support: card saving failed on my account",
+    "output": "Sorry for the issue. Please try after clearing cache or ensure your card has no restrictions for online saves."
+  },
+  {
+    "input": "customer support: promo code valid but not applying",
+    "output": "I apologize for the trouble. Please check the code’s terms, such as minimum purchase or category restrictions."
+  },
+  {
+    "input": "customer support: prepaid order cancelled but refund delayed",
+    "output": "I understand your concern. Refunds for cancelled prepaid orders are usually processed within 5-7 days."
+  },
+  {
+    "input": "customer support: order is delayed beyond delivery date",
+    "output": "I apologize for the delay. Let me check the current status of your shipment. Please share your order ID."
+  },
+  {
+    "input": "customer support: tracking number not showing any update",
+    "output": "Sometimes tracking takes 24-48 hours to update. If the problem persists please contact the courier partner."
+  },
+  {
+    "input": "customer support: delivery person marked delivered but I didn't receive",
+    "output": "I am sorry for the issue. Please share your order ID so we can raise a non-delivery complaint immediately."
+  },
+  {
+    "input": "customer support: wrong delivery address entered",
+    "output": "I understand the problem. Address change is possible only before shipment. Please contact support team quickly."
+  },
+  {
+    "input": "customer support: order split into multiple packages",
+    "output": "Yes, sometimes items from different sellers ship separately. You will receive tracking details for each package."
+  },
+  {
+    "input": "customer support: can I change delivery slot",
+    "output": "Once the slot is booked it cannot be changed. You may contact the delivery partner after it is out for delivery."
+  },
+  {
+    "input": "customer support: missing item in my package",
+    "output": "I sincerely apologize. Share your unboxing video and order ID to help us investigate and send the missing item."
+  },
+  {
+    "input": "customer support: package received in open condition",
+    "output": "I am sorry for this experience. Please share images of the package and we will assist you with a return or refund."
+  },
+  {
+    "input": "customer support: order status stuck at 'processing'",
+    "output": "We apologize for the delay. Processing can take up to 48 hours during high demand. The status will update soon."
+  },
+  {
+    "input": "customer support: delivery attempted but I was unavailable",
+    "output": "No worries. The courier will attempt delivery again within the next 1-2 days."
+  },
+  {
+    "input": "customer support: ship to a different address after ordering",
+    "output": "Unfortunately the shipping address cannot be edited once confirmed. You can cancel and reorder."
+  },
+  {
+    "input": "customer support: how long will it take to deliver to my pincode",
+    "output": "Delivery time varies by location. Please share your pincode and I will check the estimated delivery date for you."
+  },
+  {
+    "input": "customer support: received wrong product",
+    "output": "I apologize for the mix-up. We will arrange a return and dispatch the correct item immediately."
+  },
+  {
+    "input": "customer support: product is different from website description",
+    "output": "Sorry for the discrepancy. You can request a return or exchange within the eligible period."
+  },
+  {
+    "input": "customer support: exchanged item also has defect",
+    "output": "We deeply regret this. Please share the exchange details so we can provide a full refund or another replacement."
+  },
+  {
+    "input": "customer support: size chart seems inaccurate",
+    "output": "I understand your frustration. If the size does not match you are eligible for an exchange within 7 days."
+  },
+  {
+    "input": "customer support: exchange pick-up scheduled but nobody arrived",
+    "output": "I apologize for the missed pickup. I will escalate this and the courier will attempt again within 24 hours."
+  },
+  {
+    "input": "customer support: need to replace a item with higher price",
+    "output": "You can request a return and place a fresh order for the higher-priced item. Exchange is only for same or lower value."
+  },
+  {
+    "input": "customer support: exchange window expired by one day",
+    "output": "I understand the concern. As a one-time exception we might consider the request. Please share your order ID."
+  },
+  {
+    "input": "customer support: can I return a gift item",
+    "output": "Gift items can be returned provided you have the order number and it is within the return period."
+  },
+  {
+    "input": "customer support: product seal broken received",
+    "output": "I apologize. Items with broken seals are eligible for immediate return. Please share images for prompt assistance."
+  },
+  {
+    "input": "customer support: want to exchange for different brand",
+    "output": "Exchanges are limited to the same product or different size/color. To change the brand, please return and order new."
+  },
+  {
+    "input": "customer support: return request declined without reason",
+    "output": "I'm sorry for the confusion. Let me check the reason why your return was rejected and we can re-evaluate it."
+  },
+  {
+    "input": "customer support: exchange item out of stock",
+    "output": "If the desired size or color is unavailable we can process a refund instead. Would you prefer that?"
+  },
+  {
+    "input": "customer support: return pickup not available in my area",
+    "output": "I apologize. If pick-up is unavailable, you can self-ship the product and we will reimburse the courier charges."
+  },
+  {
+    "input": "customer support: quality issue after first wash",
+    "output": "I am sorry for the quality problem. Please share photos and we will proceed with a refund or exchange."
+  },
+  {
+    "input": "customer support: received duplicate product instead of my order",
+    "output": "We apologize for the error. Please share your order ID and we will rectify this at the earliest."
+  },
+  {
+    "input": "customer support: item arrived late so I no longer need it",
+    "output": "You can refuse delivery or initiate a return request. Late delivery may be eligible for full refund."
+  },
+  {
+    "input": "customer support: packaging was damaged but product okay",
+    "output": "Thank you for informing us. If the product is undamaged you are still covered by warranty. We will note this feedback."
+  },
+  {
+    "input": "customer support: refund status showing 'completed' but money not credited",
+    "output": "I understand. Once marked completed, it may take 2-3 business days for the bank to reflect it. If not, please share the transaction ID."
+  },
+  {
+    "input": "customer support: refund credited to closed bank account",
+    "output": "We regret the issue. Our payment team can trace the refund and reissue it to your active account. Please share the order ID."
+  },
+  {
+    "input": "customer support: partial refund received but full refund expected",
+    "output": "I apologize. Please share the order details so we can check if any charges like shipping were deducted."
+  },
+  {
+    "input": "customer support: refund to credit card not showing",
+    "output": "Credit card refunds may take up to 10 business days to appear. Please check your statement after that period."
+  },
+  {
+    "input": "customer support: refund for cancelled order is less than paid",
+    "output": "I understand the mismatch. Possibly a cancellation fee applied. Let me check the order and clarify."
+  },
+  {
+    "input": "customer support: refund request raised but not yet picked up",
+    "output": "Refund processing starts after the item is received. Please wait for the pick-up and return completion."
+  },
+  {
+    "input": "customer support: refund not initiated even after product returned",
+    "output": "I am sorry for the delay. Once warehouse checks the returned item the refund is initiated. This may take 3-5 days."
+  },
+  {
+    "input": "customer support: wallet refund not usable",
+    "output": "Wallet refunds are usually added as credits you can use for next purchase. If you prefer bank transfer, let us know."
+  },
+  {
+    "input": "customer support: refund status stuck at 'requested'",
+    "output": "We apologize for the hold-up. I will escalate your request to the refunds team for faster processing."
+  },
+  {
+    "input": "customer support: product delivered but no refund for returned item",
+    "output": "I understand your concern. If the return was completed, refund should be initiated. Let me verify the return status."
+  },
+  {
+    "input": "customer support: compensation for delayed refund",
+    "output": "We can look into compensation on a case-by-case basis. Please share your order ID and our team will review."
+  },
+  {
+    "input": "customer support: UPI refund reference not shared",
+    "output": "Sorry for the oversight. I will request the UPI reference ID from the finance team and share it with you."
+  },
+  {
+    "input": "customer support: refund mode changed without my consent",
+    "output": "Refunds are processed to the original payment method by default. If it changed, please share details for investigation."
+  },
+  {
+    "input": "customer support: account creation issue with email",
+    "output": "I can help. Please try using a different email or check if your email is already registered. Reset password if needed."
+  },
+  {
+    "input": "customer support: not getting order confirmation email",
+    "output": "Please check your spam or promotions folder. Also ensure your email address was entered correctly during checkout."
+  },
+  {
+    "input": "customer support: how to delete my account",
+    "output": "We’re sorry to see you go. You can request account deletion by contacting our support team via email."
+  },
+  {
+    "input": "customer support: mobile number update not working",
+    "output": "Sorry for the issue. Mobile number change may require OTP verification. Please try the process again."
+  },
+  {
+    "input": "customer support: notifications not working in app",
+    "output": "Please check app notification settings on your device and within the app. Reinstalling can also resolve this."
+  },
+  {
+    "input": "customer support: wishlist items disappearing",
+    "output": "I apologize. This can happen after clearing cache. Please stay logged in and re-add your favorites."
+  },
+  {
+    "input": "customer support: store locator not working",
+    "output": "Sorry for the trouble. Please ensure location permission is enabled for the app or website."
+  },
+  {
+    "input": "customer support: feedback form not submitting",
+    "output": "We regret the issue. You can email your feedback to support@example.com. We value your input."
+  },
+  {
+    "input": "customer support: loyalty points not credited",
+    "output": "Points are credited after order delivery. If it’s been more than 7 days, please share your order ID."
+  },
+  {
+    "input": "customer support: can I change my registered email address",
+    "output": "Yes, you can change it from account settings after verifying the new email. Contact support if you face difficulties."
+  },
+  {
+    "input": "customer support: how to enable two-factor authentication",
+    "output": "Two-factor authentication can be enabled from the security section in your account settings."
+  },
+  {
+    "input": "customer support: referral code not working for friend",
+    "output": "Please ensure your friend is a new user and meets the referral conditions. Sharing the correct link also helps."
+  },
+  {
+    "input": "customer support: seller not responding to query",
+    "output": "I will step in and help. Please share the product and order ID so I can coordinate with the seller."
+  },
+  {
+    "input": "customer support: invoice download not working",
+    "output": "Sorry for the inconvenience. You can try from the orders section. If the issue persists, we can email the invoice."
+  },
+  {
+    "input": "customer support: how to apply for a business account",
+    "output": "Thank you for your interest. Business accounts are currently by invitation. Please reach out to corporate sales."
+  },
+  {
+    "input": "customer support: product warranty claim process",
+    "output": "For warranty claims, visit the order details page and select 'Claim Warranty'. We will guide you through the rest."
+  },
+  {
+    "input": "customer support: how to cancel order before shipping",
+    "output": "You can cancel from 'My Orders' within a few minutes of placing. If the option is gone, it's already processing."
+  },
+  {
+    "input": "customer support: order placed but I want to change size",
+    "output": "Size cannot be edited after order. Please cancel if still possible and place a new order with the correct size."
+  },
+  {
+    "input": "customer support: will I get refund if I cancel",
+    "output": "Yes, if cancelled before dispatch a full refund is initiated. After shipment, return policy applies."
+  },
+  {
+    "input": "customer support: how to contact delivery partner",
+    "output": "The contact details of the courier partner are available in the tracking page of your order."
+  },
+  {
+    "input": "customer support: can I add items to an already placed order",
+    "output": "Unfortunately once an order is placed you cannot add items. You can place a new order for additional items."
+  },
+  {
+    "input": "customer support: delivery to multiple addresses in one order",
+    "output": "Our platform does not support multiple addresses in a single order. Please place separate orders."
+  },
+  {
+    "input": "customer support: how to report a seller",
+    "output": "You can use the 'Report seller' option on the product page. Our team will investigate and take action."
+  },
+  {
+    "input": "customer support: is this product authentic",
+    "output": "We ensure products are sourced from authorized sellers. If you have doubts, you can request a certificate of authenticity."
+  },
+  {
+    "input": "customer support: product price dropped after I ordered",
+    "output": "I understand. We do have price protection for some items. Please share the order ID to check eligibility."
+  },
+  {
+    "input": "customer support: unable to apply gift card",
+    "output": "Please check the gift card balance and expiry. If it's still valid, try entering the code without spaces."
+  },
+  {
+    "input": "customer support: how to avail no-cost EMI",
+    "output": "Select a product eligible for EMI, choose your card at payment and select the no-cost EMI tenure."
+  },
+  {
+    "input": "customer support: payment confirmation but order not showing in history",
+    "output": "Sometimes it takes a few minutes to sync. If it doesn't appear within an hour, please contact support with payment ID."
+  },
+  {
+    "input": "customer support: what does 'fulfilled by seller' mean",
+    "output": "It means the item is packed and shipped directly by the seller, not from our warehouse."
+  },
+  {
+    "input": "customer support: I want to buy in bulk",
+    "output": "For bulk orders please contact our business sales team. We may offer special pricing."
+  },
+  {
+    "input": "customer support: how long does exchange take",
+    "output": "Exchange typically takes 5-7 business days from the date the returned item is picked up."
+  },
+  {
+    "input": "customer support: can I opt for open box delivery",
+    "output": "Open box delivery is available for select items and pincodes. You will see the option at checkout."
+  },
+  {
+    "input": "customer support: secure packaging fee charged",
+    "output": "This is an optional fee for fragile items. It can be toggled off before placing the order."
+  },
+  {
+    "input": "customer support: product out of stock after adding to cart",
+    "output": "I apologize. Items are reserved only after order confirmation. I can notify you when it's back in stock."
+  },
+  {
+    "input": "customer support: my review is not published",
+    "output": "Reviews go through moderation and may take up to 72 hours. If it meets guidelines it will be published."
+  },
+  {
+    "input": "customer support: how to track return pickup",
+    "output": "You can track return pickup from the 'Returns' section under 'My Orders' using the provided tracking ID."
+  },
+  {
+    "input": "customer support: UPI payment failed but money debited",
+    "output": "The amount is usually reversed within 2-3 days. If not, please share your transaction reference number."
+  },
+  {
+    "input": "customer support: debit card not supported",
+    "output": "We accept major debit cards. Please check if your card is enabled for e-commerce. You can also try netbanking."
+  },
+  {
+    "input": "customer support: I want to cancel my subscription",
+    "output": "Subscriptions can be cancelled from account settings. If you face issues, reach out to our membership team."
+  },
+  {
+    "input": "customer support: return pickup rescheduled automatically",
+    "output": "Sometimes courier partners reschedule. You can choose a convenient slot again from the returns page."
+  },
+  {
+    "input": "customer support: wrong currency shown on website",
+    "output": "Please ensure your location setting is correct. Go to settings and change country/currency to your region."
+  },
+  {
+    "input": "customer support: how to use reward points",
+    "output": "At checkout, you'll see an option to redeem your reward points for a discount. Click to apply."
+  },
+  {
+    "input": "customer support: app draining battery quickly",
+    "output": "We apologize. The new update is optimized for performance. Please ensure you have the latest version installed."
+  },
+  {
+    "input": "customer support: I received a call asking for OTP",
+    "output": "Please do not share OTPs. We never ask for them via call. Report such calls to our safety team."
+  },
+  {
+    "input": "customer support: suspicious login attempt on my account",
+    "output": "Your account security is important. Please change your password immediately and enable two-factor authentication."
+  },
+  {
+    "input": "customer support: I need invoice with GST",
+    "output": "A GST invoice can be downloaded from your order history after delivery. Ensure your GSTIN is updated in addresses."
+  },
+  {
+    "input": "customer support: product warranty registration",
+    "output": "Some products require registration on the brand's website. Check the warranty card for instructions."
+  },
+  {
+    "input": "customer support: tell me a story",
+    "output": "I am your e-commerce support assistant. I can only help with orders, payments, exchanges and refunds."
+  },
+  {
+    "input": "customer support: how to cook pasta",
+    "output": "I can only assist with shopping-related queries. Please ask about your orders or account issues."
+  },
+  {
+    "input": "customer support: what is the time now",
+    "output": "I'm designed only for customer support assistance related to shopping and payments."
+  },
+  {
+    "input": "customer support: translate this to French",
+    "output": "I can only help with e-commerce support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: who is your favorite actor",
+    "output": "I am an e-commerce support assistant and cannot have personal preferences. Please ask order-related questions."
+  },
+  {
+    "input": "customer support: how far is the moon",
+    "output": "I can only assist with customer support related questions for our platform."
+  },
+  {
+    "input": "customer support: can you sing a song",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: what is the capital of Australia",
+    "output": "I can only help with shopping support queries like exchanges, refunds and payments."
+  },
+  {
+    "input": "customer support: give me a recipe",
+    "output": "Please ask queries related to your orders, deliveries, refunds or payment issues."
+  },
+  {
+    "input": "customer support: play tic tac toe",
+    "output": "I am designed only for customer support assistance related to shopping and payments."
+  },
+  {
+    "input": "customer support: what's the latest movie",
+    "output": "I am an e-commerce support assistant and cannot provide entertainment recommendations."
+  },
+  {
+    "input": "customer support: how to lose weight",
+    "output": "I can only assist with order related queries. Please ask about your orders or payments."
+  },
+  {
+    "input": "customer support: tell me a fact",
+    "output": "I am your e-commerce support assistant. I can only help with orders, payments, exchanges and refunds."
+  },
+  {
+    "input": "customer support: what is your name",
+    "output": "I am the e-commerce virtual support assistant. How may I assist you with your orders?"
+  },
+  {
+    "input": "customer support: can you dance",
+    "output": "I can only assist with customer support related questions for our platform."
+  },
+  {
+    "input": "customer support: who is the richest person",
+    "output": "Please ask questions related to your purchases, orders or account support."
+  },
+  {
+    "input": "customer support: how to make tea",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: what is the meaning of life",
+    "output": "I can only help with e-commerce related support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: I am feeling sad",
+    "output": "I understand that you're feeling down. I can help if you have issues with your order or account."
+  },
+  {
+    "input": "customer support: what is the weather tomorrow",
+    "output": "I can only assist with order related queries. Please ask about your orders or payments."
+  },
+  {
+    "input": "customer support: tell me a riddle",
+    "output": "I am your e-commerce support assistant. I can only help with orders, payments, exchanges and refunds."
+  },
+  {
+    "input": "customer support: can you help with homework",
+    "output": "I can only help with shopping support queries like exchanges, refunds and payments."
+  },
+  {
+    "input": "customer support: do you have feelings",
+    "output": "I am a virtual assistant for e-commerce support. How can I help with your orders?"
+  },
+  {
+    "input": "customer support: who created you",
+    "output": "I am the customer support assistant created to help with orders, refunds, exchanges and payments."
+  },
+  {
+    "input": "customer support: how old are you",
+    "output": "I am just a virtual support assistant with no age. How can I help with your shopping needs?"
+  },
+  {
+    "input": "customer support: can you drive a car",
+    "output": "I can only assist with e-commerce queries. Please ask about your order, payment, or return."
+  },
+  {
+    "input": "customer support: what is 10 divided by 3",
+    "output": "I can only help with customer support related questions for our platform."
+  },
+  {
+    "input": "customer support: current gold price",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: tell me a quote",
+    "output": "I am your e-commerce support assistant. I can only help with orders, payments, exchanges and refunds."
+  },
+  {
+    "input": "customer support: can you book a flight",
+    "output": "I am an e-commerce support assistant and cannot handle travel bookings. Please ask order-related queries."
+  },
+  {
+    "input": "customer support: how to sleep better",
+    "output": "I can only assist with customer support related questions for our platform."
+  },
+  {
+    "input": "customer support: who is the president of USA",
+    "output": "Please ask questions related to your purchases, orders or account support."
+  },
+  {
+    "input": "customer support: how to draw a rose",
+    "output": "I can only help with shopping support queries like exchanges, refunds and payments."
+  },
+  {
+    "input": "customer support: can you remind me at 5pm",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: what is blockchain",
+    "output": "Please ask queries related to your orders, deliveries, refunds or payment issues."
+  },
+  {
+    "input": "customer support: tell me a fun fact about dogs",
+    "output": "I can only assist with order related queries. Please ask about your orders or payments."
+  },
+  {
+    "input": "customer support: how to invest in stocks",
+    "output": "I am an e-commerce support assistant and cannot provide financial advice. Please ask order-related queries."
+  },
+  {
+    "input": "customer support: who is best footballer",
+    "output": "I am designed only for customer support assistance related to shopping and payments."
+  },
+  {
+    "input": "customer support: what is the tallest building",
+    "output": "I can only help with e-commerce related support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: can you order pizza",
+    "output": "I can only assist with customer support related questions for our platform."
+  },
+  {
+    "input": "customer support: what is the speed of light",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: how to play chess",
+    "output": "I am your e-commerce support assistant. I can only help with orders, payments, exchanges and refunds."
+  },
+  {
+    "input": "customer support: can you check my email",
+    "output": "I can only help with shopping support queries like exchanges, refunds and payments."
+  },
+  {
+    "input": "customer support: what is the best phone",
+    "output": "I can provide order support but cannot give product recommendations. Please ask about your orders."
+  },
+  {
+    "input": "customer support: how to build a website",
+    "output": "Please ask queries related to your orders, deliveries, refunds or payment issues."
+  },
+  {
+    "input": "customer support: meaning of impossible",
+    "output": "I can only assist with e-commerce customer support. Please ask about your shopping experience."
+  },
+  {
+    "input": "customer support: can you make me laugh",
+    "output": "I am an e-commerce support assistant. Please ask how I can help with your orders or returns."
+  },
+  {
+    "input": "customer support: what is your favorite color",
+    "output": "I am a virtual support assistant. I can assist you with your orders and refunds today."
+  },
+  {
+    "input": "customer support: what is the time in London",
+    "output": "I can only help with e-commerce related support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: can you speak Spanish",
+    "output": "I can only respond in English and help with order, payment, and return queries."
+  },
+  {
+    "input": "customer support: how to find happiness",
+    "output": "I'm here to resolve your shopping issues. If something is wrong with your order, I'm happy to help."
+  },
+  {
+    "input": "customer support: can you tell me a secret",
+    "output": "I am an e-commerce support assistant and cannot keep secrets. But I can assist with your orders!"
+  },
+  {
+    "input": "customer support: play rock paper scissors",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: what is your favorite food",
+    "output": "I don't eat, but I can help with food orders if you've faced an issue. Let me know how I can help."
+  },
+  {
+    "input": "customer support: are you a robot",
+    "output": "I am a virtual assistant built to help with e-commerce support. How can I assist you?"
+  },
+  {
+    "input": "customer support: can you send me a photo",
+    "output": "I can only assist with text-based support for orders, payments, and returns."
+  },
+  {
+    "input": "customer support: how to fix a leaky tap",
+    "output": "I can only help with shopping support queries like exchanges, refunds and payments."
+  },
+  {
+    "input": "customer support: who discovered electricity",
+    "output": "I am designed only for customer support assistance related to shopping and payments."
+  },
+  {
+    "input": "customer support: tell me about the solar system",
+    "output": "I can only assist with order related queries. Please ask about your orders or payments."
+  },
+  {
+    "input": "customer support: I need a hug",
+    "output": "I wish I could give you one! Meanwhile, let me help with any order concerns you might have."
+  },
+  {
+    "input": "customer support: what is my IP address",
+    "output": "For security reasons, I cannot reveal that. Please ask about your orders, payments, or account."
+  },
+  {
+    "input": "customer support: how to write a resume",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: what is the capital of Canada",
+    "output": "Please ask questions related to your purchases, orders or account support."
+  },
+  {
+    "input": "customer support: what is virtual reality",
+    "output": "I can only help with e-commerce related support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: can you give me a discount",
+    "output": "I understand you want a discount. Please check available coupons on the offers page. I can't generate new ones."
+  },
+  {
+    "input": "customer support: app not compatible with my device",
+    "output": "I apologize. Please check the minimum OS requirements. You can also use our mobile website as an alternative."
+  },
+  {
+    "input": "customer support: search bar not working",
+    "output": "Sorry for the trouble. Try clearing browser cache or updating the app. The issue should resolve shortly."
+  },
+  {
+    "input": "customer support: I forgot my password",
+    "output": "No problem. Use the 'Forgot Password' option on the login page to reset it via email or SMS."
+  },
+  {
+    "input": "customer support: unable to verify phone number",
+    "output": "I understand the issue. Ensure you entered the correct number with country code and try the OTP again."
+  },
+  {
+    "input": "customer support: how to return a product",
+    "output": "Go to 'My Orders', select the item and click 'Return'. Follow the steps and schedule a pickup."
+  },
+  {
+    "input": "customer support: delivery charge too high",
+    "output": "I understand your concern. Delivery charges depend on location and order value. Free delivery is available above a certain amount."
+  },
+  {
+    "input": "customer support: can I change payment mode after order",
+    "output": "Once an order is placed the payment mode cannot be changed. You can cancel and reorder with preferred mode."
+  },
+  {
+    "input": "customer support: I missed the delivery today",
+    "output": "Don't worry. The courier will reattempt delivery on the next business day. You can also reschedule via tracking."
+  },
+  {
+    "input": "customer support: why is my account temporarily blocked",
+    "output": "This could be due to multiple failed login attempts or suspicious activity. Please contact support to unlock it."
+  },
+  {
+    "input": "customer support: refund for damaged product",
+    "output": "I apologize. For a damaged product you are eligible for a full refund or replacement. Please share images."
+  },
+  {
+    "input": "customer support: how to track my order",
+    "output": "You can track your order from the 'My Orders' section using the tracking link sent via email/SMS."
+  },
+  {
+    "input": "customer support: wrong item delivered",
+    "output": "I'm sorry for the mistake. Please share your order ID and we will arrange the correct delivery or refund."
+  },
+  {
+    "input": "customer support: partial order received",
+    "output": "Your order might be split into multiple shipments. Please check your email for other tracking numbers."
+  },
+  {
+    "input": "customer support: I want to exchange for larger size",
+    "output": "Sure! Initiate an exchange from 'My Orders' and select the larger size if available."
+  },
+  {
+    "input": "customer support: I can't apply a coupon",
+    "output": "Please check whether the coupon terms are met (minimum order, specific category, new user only)."
+  },
+  {
+    "input": "customer support: how to cancel a return request",
+    "output": "If the return pickup hasn't happened yet, you can cancel it from the 'Returns' section."
+  },
+  {
+    "input": "customer support: not happy with product quality",
+    "output": "I'm sorry about that. You can return the product within the return window for a refund or exchange."
+  },
+  {
+    "input": "customer support: can I modify delivery address",
+    "output": "Address change is possible only before the item is shipped. Afterwards it's very limited."
+  },
+  {
+    "input": "customer support: how long is the exchange window",
+    "output": "Most products have a 7-day exchange window from the date of delivery. Check the product page for specifics."
+  },
+  {
+    "input": "customer support: I want to speak to a human",
+    "output": "I understand. I can escalate your issue to a live agent. Please share your concern and order ID."
+  },
+  {
+    "input": "customer support: are there any hidden charges",
+    "output": "The final amount at checkout includes all taxes and fees. There are no hidden charges."
+  },
+  {
+    "input": "customer support: how to return a heavy item",
+    "output": "For large or heavy items, special logistics will be arranged. Please initiate the return and our team will guide."
+  },
+  {
+    "input": "customer support: order cancelled by seller",
+    "output": "We apologize for the inconvenience. If the seller cancels, a full refund is automatically initiated."
+  },
+  {
+    "input": "customer support: I want a call back",
+    "output": "Sure, I have raised a callback request. Our support team will contact you within 2 hours."
+  },
+  {
+    "input": "customer support: how to delete address from my account",
+    "output": "Go to 'Saved Addresses' in your account settings, select the address and click delete."
+  },
+  {
+    "input": "customer support: I want to change my order from COD to prepaid",
+    "output": "Unfortunately you cannot switch payment mode after placing. Please cancel and place a new prepaid order."
+  },
+  {
+    "input": "customer support: wallet balance not updated after top-up",
+    "output": "If it's been more than 30 minutes please share the top-up transaction ID. We'll manually reconcile it."
+  },
+  {
+    "input": "customer support: order delivered but quality bad",
+    "output": "I'm sorry to hear that. You can return the product as quality not satisfactory within the policy period."
+  },
+  {
+    "input": "customer support: why do I need to submit ID for return",
+    "output": "ID verification is sometimes required to prevent fraud on high-value returns. It is safe and secure."
+  },
+  {
+    "input": "customer support: how to get invoice for my order",
+    "output": "Invoice can be downloaded from the order details page after delivery. You'll see a 'Download Invoice' option."
+  },
+  {
+    "input": "customer support: product is missing parts",
+    "output": "I apologize. Missing parts are covered. Please share images and the part details for a replacement/refund."
+  },
+  {
+    "input": "customer support: can I extend the return window",
+    "output": "Return windows are generally strict, but in special situations we can review. Please share your order ID."
+  },
+  {
+    "input": "customer support: payment page keeps loading",
+    "output": "Sorry for the wait. This might be a network issue. Try a different browser or payment method."
+  },
+  {
+    "input": "customer support: I received a used product",
+    "output": "That's unacceptable. We will initiate a return and full refund. Please share images and order details."
+  },
+  {
+    "input": "customer support: how to add more than one shipping address",
+    "output": "You can add multiple addresses in your account address book, then choose one at checkout."
+  },
+  {
+    "input": "customer support: my order was delivered to wrong house",
+    "output": "I'm very sorry for this. We'll launch an investigation and arrange a replacement or refund immediately."
+  },
+  {
+    "input": "customer support: I want to cancel an exchange request",
+    "output": "If the pickup hasn't happened yet you can cancel the exchange from the returns section of the order."
+  },
+  {
+    "input": "customer support: I was charged for cancelled item",
+    "output": "The charge should have been reversed. If it still shows, please share your order ID for a refund check."
+  },
+  {
+    "input": "customer support: app shows 'under maintenance'",
+    "output": "We apologize for the downtime. Maintenance usually lasts a few hours. Please try again later."
+  },
+  {
+    "input": "customer support: how to reorder",
+    "output": "You can reorder from your order history. Look for the 'Buy Again' button next to the product."
+  },
+  {
+    "input": "customer support: can I track order without account",
+    "output": "You'll need the order ID and email/phone used. Use the guest tracking option on our website."
+  },
+  {
+    "input": "customer support: wrong price shown in cart",
+    "output": "Please refresh and try again. If the issue persists, share the product name and we'll check the pricing."
+  },
+  {
+    "input": "customer support: how to report a fake product",
+    "output": "Please contact support immediately with the order ID and photos. We take counterfeits very seriously."
+  },
+  {
+    "input": "customer support: delivery boy asking for extra cash",
+    "output": "Do not pay extra. Cash on delivery amount is final. Report such incidents with order ID for action."
+  },
+  {
+    "input": "customer support: exchange delivered but size still wrong",
+    "output": "We apologize for the repeat error. Please contact us for a full refund and we'll ensure this is investigated."
+  },
+  {
+    "input": "customer support: can I get a paper bill",
+    "output": "Paper bills are included in the package. If missing, the digital invoice from the website is equally valid."
+  },
+  {
+    "input": "customer support: why was my review removed",
+    "output": "Reviews may be removed if they violate guidelines. If you think this was a mistake, contact review moderation."
+  },
+  {
+    "input": "customer support: I cannot pay via UPI",
+    "output": "Try reinitiating the UPI payment. Ensure your UPI app is updated and the bank servers are active."
+  },
+  {
+    "input": "customer support: I want to return a personalized item",
+    "output": "Personalized or custom items are usually not returnable unless defective. Please check the policy on product page."
+  },
+  {
+    "input": "customer support: how to earn loyalty points faster",
+    "output": "You can earn points by writing reviews, referring friends, or shopping during special bonus point events."
+  },
+  {
+    "input": "customer support: I received a call about order cancellation",
+    "output": "Beware of scams. We never call to ask for OTP or bank details to cancel orders. Report such calls."
+  },
+  {
+    "input": "customer support: what is shipping policy for international orders",
+    "output": "International shipping depends on the product and destination. Duties and taxes may apply. See our shipping policy."
+  },
+  {
+    "input": "customer support: my order arrived late and I was charged for it anyway",
+    "output": "Late delivery beyond the promised date might be eligible for compensation. Please share your order ID."
+  },
+  {
+    "input": "customer support: I want to change delivery date",
+    "output": "If the order hasn't shipped you can try contacting support. After shipment, you may coordinate with courier."
+  },
+  {
+    "input": "customer support: why does my invoice show different amount",
+    "output": "Sometimes discounts and promotions adjust the invoice total. If the mismatch is large, we can verify."
+  },
+  {
+    "input": "customer support: my gift card got locked",
+    "output": "Gift cards may lock after multiple invalid attempts. Please contact support with the card number to unlock."
+  },
+  {
+    "input": "customer support: I returned an item but tracking shows not picked up",
+    "output": "If you handed it over, keep the pickup receipt. Contact support and we'll track the return manually."
+  },
+  {
+    "input": "customer support: how to opt out of marketing emails",
+    "output": "You can unsubscribe using the link at the bottom of our emails or from notification preferences in account."
+  },
+  {
+    "input": "customer support: I need a duplicate copy of warranty card",
+    "output": "Warranty information is usually linked to your order. Physical card may not be reissued. Use invoice as proof."
+  },
+  {
+    "input": "customer support: chat not connecting to agent",
+    "output": "I apologize for the delay. The chat is experiencing high volume. Please wait or try again after some time."
+  },
+  {
+    "input": "customer support: app is very slow today",
+    "output": "We are sorry for the performance issues. Our team is scaling up resources. It should improve soon."
+  },
+  {
+    "input": "customer support: what does open box delivery mean",
+    "output": "It means the delivery person opens the package in front of you for inspection before marking as delivered."
+  },
+  {
+    "input": "customer support: my account shows order I didn't place",
+    "output": "This might be a security concern. Please change your password immediately and contact support to investigate."
+  },
+  {
+    "input": "customer support: how to check gift card balance",
+    "output": "Go to the gift card section in your account and enter the card number and PIN to check balance."
+  },
+  {
+    "input": "customer support: can I extend my subscription",
+    "output": "Yes, you can extend or renew your subscription from the membership page before expiry."
+  },
+  {
+    "input": "customer support: I accidentally confirmed delivery but haven't received",
+    "output": "Please contact support immediately with the order ID so we can raise a dispute with the courier."
+  },
+  {
+    "input": "customer support: what is estimated delivery for pre-orders",
+    "output": "Pre-order items show an estimated shipping date on the product page. You will be notified when shipped."
+  },
+  {
+    "input": "customer support: can I return an opened electronic item",
+    "output": "Electronics can be returned if defective or not as described, even if opened. Check specific policy."
+  },
+  {
+    "input": "customer support: my return pickup was cancelled",
+    "output": "I'm sorry for the inconvenience. Please reschedule the pickup from the returns page at your convenience."
+  },
+  {
+    "input": "customer support: can I change the phone number for delivery",
+    "output": "Phone number cannot be changed after order, but you can add delivery instructions with alternate contact."
+  },
+  {
+    "input": "customer support: order not placed but money deducted",
+    "output": "We understand the worry. The amount is pending and will be reversed within 3-5 days automatically."
+  },
+  {
+    "input": "customer support: app requires too many permissions",
+    "output": "Permissions like camera and storage are needed for features like image upload. You can manage them in settings."
+  },
+  {
+    "input": "customer support: I am unable to post a review",
+    "output": "Ensure you are logged in and have purchased the item. Some products may have review moderation delay."
+  },
+  {
+    "input": "customer support: how to share my feedback",
+    "output": "We value your feedback! You can rate the app, fill the feedback form, or email us at support@example.com."
+  },
+  {
+    "input": "customer support: how to return a product bought on sale",
+    "output": "Sale items follow the same return policy unless tagged as non-returnable. Check the product page."
+  },
+  {
+    "input": "customer support: I need a refund for poor quality food item",
+    "output": "Sorry about that. For food or perishables, please contact support within 24 hours with photos for a refund."
+  },
+  {
+    "input": "customer support: how to become a seller",
+    "output": "You can apply by visiting our 'Sell on platform' page and filling out the registration form."
+  },
+  {
+    "input": "customer support: can I use two coupons at once",
+    "output": "Usually only one coupon code is allowed per order. Check the terms of each coupon for details."
+  },
+  {
+    "input": "customer support: I received an empty box",
+    "output": "This is very serious. Share an unboxing video and order ID so we can launch a full investigation and refund."
+  },
+  {
+    "input": "customer support: product has scratch but box ok",
+    "output": "We apologize. That's likely a manufacturing defect. You can exchange or return it for a refund."
+  },
+  {
+    "input": "customer support: I want to gift wrap my order",
+    "output": "Gift wrap option appears at the cart or checkout page for eligible items with an additional fee."
+  },
+  {
+    "input": "customer support: can I pause my order",
+    "output": "Orders cannot be paused once placed. You may cancel if still possible and reorder later."
+  },
+  {
+    "input": "customer support: how to check delivery guy's identity",
+    "output": "Delivery partners carry ID cards. If unsure, call our customer care to confirm the person's identity."
+  },
+  {
+    "input": "customer support: payment successful but order cancelled",
+    "output": "If the payment went through but order cancelled, refund is automatically initiated. Please allow 5-7 days."
+  },
+  {
+    "input": "customer support: please cancel my order immediately",
+    "output": "I'll try, but cancelation is only possible within a few minutes after placing. Please share your order ID."
+  },
+  {
+    "input": "customer support: how to change email for newsletter",
+    "output": "Update your email in account settings and resubscribe to the newsletter from the communication preferences."
+  },
+  {
+    "input": "customer support: I want to extend my replacement warranty",
+    "output": "Replacement warranty is standard. For extended warranty, check if the product offers separate brand warranty."
+  },
+  {
+    "input": "customer support: my COD order delivery attempted but no cash",
+    "output": "You can pay via card or UPI at the doorstep if you don't have cash. Ask the delivery person for options."
+  },
+  {
+    "input": "customer support: app is not compatible with tablet",
+    "output": "Our app is optimized for phones. Please use the mobile website on your tablet for a better experience."
+  },
+  {
+    "input": "customer support: I want to know the status of my complaint",
+    "output": "Please provide your complaint reference number, and I'll check the latest update for you."
+  },
+  {
+    "input": "customer support: wrong user name on account",
+    "output": "You can edit your profile name from the account settings. If it doesn't allow, contact support."
+  },
+  {
+    "input": "customer support: how to delete payment method",
+    "output": "In your account, go to Saved Cards/Wallets and remove the payment method you no longer need."
+  },
+  {
+    "input": "customer support: I received a product I didn't order",
+    "output": "Sounds like a shipping error. Please share your order ID and we'll arrange return of the extra item."
+  },
+  {
+    "input": "customer support: can I exchange an item without original packaging",
+    "output": "Original packaging is preferred but not always mandatory. The product must be in good condition. Try initiating exchange."
+  },
+  {
+    "input": "customer support: how to get cashback",
+    "output": "Cashback offers are visible on product pages. After order you'll receive cashback as per terms in your account."
+  },
+  {
+    "input": "customer support: delivery refused and refund not started",
+    "output": "Refused delivery is treated as return. Refund initiates after package reaches back to warehouse."
+  },
+  {
+    "input": "customer support: I can't see my ordered items after login",
+    "output": "Please ensure you logged in with the same email or phone used during checkout. Guest orders won't show in account."
+  },
+  {
+    "input": "customer support: screen flickering on app",
+    "output": "Sorry for the issue. Could be a display compatibility problem. Please try lowering refresh rate in device settings."
+  },
+  {
+    "input": "customer support: my wallet cashback expired",
+    "output": "Cashback credits have an expiry. You can check the validity in the wallet section. Expired credits cannot be reinstated."
+  },
+  {
+    "input": "customer support: want to order a missing part for product",
+    "output": "We can help if the part is sold separately. Please share the product model and missing part details."
+  },
+  {
+    "input": "customer support: how do I use a gift card",
+    "output": "Enter the gift card code and PIN at the payment step. The amount will be deducted from your total."
+  },
+  {
+    "input": "customer support: product is smaller than expected",
+    "output": "I understand. If the size doesn't match the description, you can return or exchange it within policy."
+  },
+  {
+    "input": "customer support: how to get my refund as cash",
+    "output": "Refunds for prepaid orders are returned to the original payment source. COD refunds can be to bank account."
+  },
+  {
+    "input": "customer support: I want a different model exchange",
+    "output": "Exchanging for a different model is not supported. You'll need to return the current item and place a new order."
+  },
+  {
+    "input": "customer support: my order is late for a birthday gift",
+    "output": "I'm really sorry about the timing. If the delivery date was guaranteed and missed, we can offer compensation."
+  },
+  {
+    "input": "customer support: how to participate in flash sale",
+    "output": "Flash sales are time-bound. Add the item to your wishlist and be on the app at the sale start time to grab it."
+  },
+  {
+    "input": "customer support: product color looks different from picture",
+    "output": "Slight color variations can occur due to screen settings. If it's significantly different, you can return it."
+  },
+  {
+    "input": "customer support: I can't rate a product",
+    "output": "Rating option appears after delivery. Please make sure you are logged in and have purchased the item."
+  },
+  {
+    "input": "customer support: where is my nearest pickup store",
+    "output": "Our store locator under 'Help' shows nearby pickup points. You can also select a store during checkout."
+  },
+  {
+    "input": "customer support: I accidentally removed item from cart",
+    "output": "No worries. You can search the product again and add it back, or check your recently viewed items."
+  },
+  {
+    "input": "customer support: do you price match",
+    "output": "We do not offer price matching currently. However, keep an eye on our deals for the best prices."
+  },
+  {
+    "input": "customer support: can you hold an item for me",
+    "output": "We cannot reserve stock. It is available as long as it's in the cart, until stock runs out or you checkout."
+  },
+  {
+    "input": "customer support: how to remove an item from wishlist",
+    "output": "Go to your wishlist, find the item and click the remove icon. It will be deleted immediately."
+  },
+  {
+    "input": "customer support: I didn't get my Cash on Delivery change",
+    "output": "Delivery persons should carry change. If they didn't, please report with order ID and we'll investigate."
+  },
+  {
+    "input": "customer support: app draining data",
+    "output": "We're optimizing data usage. Please set the app to use Wi-Fi only for images in settings if it helps."
+  },
+  {
+    "input": "customer support: cannot remove a saved address",
+    "output": "If an address is used in a pending order it cannot be deleted. Complete the order and try again."
+  },
+  {
+    "input": "customer support: I want to exchange for different color but same size",
+    "output": "That's possible! Initiate an exchange and select the new color. It will be shipped once the pickup is done."
+  },
+  {
+    "input": "customer support: I am unable to verify my email",
+    "output": "Please check spam for the verification link. If not received, you can resend the verification email from settings."
+  },
+  {
+    "input": "customer support: what is the cut-off time for same day delivery",
+    "output": "Same day delivery orders must be placed before 11 AM. Check product page for availability in your area."
+  },
+  {
+    "input": "customer support: I received a damaged outer box but product fine",
+    "output": "Thank you for letting us know. The product is covered, but we'll note the packaging issue for future improvement."
+  },
+  {
+    "input": "customer support: can I exchange a product bought with reward points",
+    "output": "Yes, exchange is allowed. If the value differs, the difference may be adjusted via refund or additional payment."
+  },
+  {
+    "input": "customer support: my refund is on hold",
+    "output": "A hold may occur if more verification is needed. Please share your order ID so I can check the reason."
+  },
+  {
+    "input": "customer support: I forgot to apply coupon at checkout",
+    "output": "Unfortunately a coupon cannot be applied after order. You could cancel and reorder if still possible."
+  },
+  {
+    "input": "customer support: app not opening at all today",
+    "output": "That's frustrating. Please try restarting your device and clearing the app cache. If not resolved, reinstall."
+  },
+  {
+    "input": "customer support: how to connect to live agent",
+    "output": "I can connect you. Just tell me your issue and order ID, and I'll transfer you to the next available agent."
+  },
+  {
+    "input": "customer support: what is the return policy for electronics",
+    "output": "Electronics have a 7-10 day return policy if defective or not as described. Check specific product page."
+  },
+  {
+    "input": "customer support: I want to speak to a manager",
+    "output": "I understand. Let me escalate your concern. A supervisor will reach out to you shortly."
+  },
+  {
+    "input": "customer support: I am not able to add product to cart",
+    "output": "I apologize for the inconvenience. Please try refreshing the page or clearing your browser cache. If the issue persists, try using the app."
+  },
+  {
+    "input": "customer support: website shows 'Access Denied'",
+    "output": "This might be due to a temporary IP block. Try using a different network or wait for 15 minutes and try again."
+  },
+  {
+    "input": "customer support: I cannot remove items from cart",
+    "output": "Sorry for the trouble. Try updating the quantity to zero or clicking the delete icon. A page refresh may also help."
+  },
+  {
+    "input": "customer support: cart automatically becomes empty",
+    "output": "Items in cart may expire if not reserved. Please add them again and check your internet connection."
+  },
+  {
+    "input": "customer support: my order was delivered but I got only one item out of three",
+    "output": "Your order may have been split into multiple shipments. Please check your email for other tracking details."
+  },
+  {
+    "input": "customer support: I need to reschedule delivery to next week",
+    "output": "You can reschedule via the tracking link if the option is available. Otherwise, contact the courier partner directly."
+  },
+  {
+    "input": "customer support: the delivery person left my parcel outside",
+    "output": "We are sorry for that. Delivery partners are instructed to hand over the package directly. We'll raise this with the courier."
+  },
+  {
+    "input": "customer support: tracking shows delivered but I was out of town",
+    "output": "Please check if a neighbor or family member accepted it. If not, we'll open a missing parcel case."
+  },
+  {
+    "input": "customer support: I want to change the shipping from standard to express",
+    "output": "Once the order is placed, the shipping speed cannot be upgraded. You may cancel and re-order with express shipping."
+  },
+  {
+    "input": "customer support: my package has been 'out for delivery' since morning",
+    "output": "Usually delivery happens by end of day. If not received by 9 PM, the courier will attempt the next working day."
+  },
+  {
+    "input": "customer support: the delivery guy is not picking up my call",
+    "output": "I apologize. You can contact the courier's customer care for immediate assistance. I can also share the number."
+  },
+  {
+    "input": "customer support: I received someone else's parcel",
+    "output": "This shouldn't have happened. Please share the tracking number on the box, and we'll arrange collection and correct delivery."
+  },
+  {
+    "input": "customer support: I want to cancel an order that is already shipped",
+    "output": "Once shipped, cancellation isn't possible. You can refuse delivery or initiate a return after receiving it."
+  },
+  {
+    "input": "customer support: why is my delivery late due to 'operational issues'",
+    "output": "Operational issues like weather or strikes can cause delays. Your order is still on the way; tracking will update soon."
+  },
+  {
+    "input": "customer support: will my package be safe if I'm not home",
+    "output": "If no one is available, couriers usually attempt three times before returning. You can provide alternate delivery instructions."
+  },
+  {
+    "input": "customer support: refund initiated but showing wrong amount",
+    "output": "I'm sorry for the error. Please share your order ID so we can verify the refund breakdown and correct it."
+  },
+  {
+    "input": "customer support: I returned a product but refund is half of what I paid",
+    "output": "Partial refunds might include deduction for shipping or opened packaging. I can check the exact reason for you."
+  },
+  {
+    "input": "customer support: refund to my expired card",
+    "output": "Banks usually still accept refunds on expired cards. If not credited, contact your bank. We'll also provide refund reference to help."
+  },
+  {
+    "input": "customer support: cash on delivery refund is very slow",
+    "output": "COD refunds require bank account details. Please make sure you have updated the correct account number and IFSC in the returns request."
+  },
+  {
+    "input": "customer support: my UPI refund failed",
+    "output": "UPI refunds are usually successful. If failed, the refund may be reattempted or processed to your bank account. Please share your order ID."
+  },
+  {
+    "input": "customer support: I selected refund to wallet but want bank transfer now",
+    "output": "Once processed, the refund mode cannot be changed. Wallet balance can be used for future purchases."
+  },
+  {
+    "input": "customer support: I haven't got refund after 10 days",
+    "output": "That's beyond the standard timeframe. Let me escalate this. Please provide your refund reference number."
+  },
+  {
+    "input": "customer support: my product stop working after a week",
+    "output": "Sorry to hear that. If it's within the return window, you can claim refund or replacement. After that, warranty applies."
+  },
+  {
+    "input": "customer support: the exchange pickup person didn't bring the new item",
+    "output": "Exchange items are usually shipped after the return pickup is complete. You'll receive tracking for the new item separately."
+  },
+  {
+    "input": "customer support: I want to exchange a product I bought last month",
+    "output": "Exchange is only allowed within 7 days of delivery. Beyond that, please check if the product has warranty service."
+  },
+  {
+    "input": "customer support: received size XL instead of L",
+    "output": "I apologize for sending the wrong size. You can request an exchange for the correct size L immediately."
+  },
+  {
+    "input": "customer support: the exchanged product price is less than original",
+    "output": "If the exchange item is cheaper, the price difference will be refunded to your original payment method."
+  },
+  {
+    "input": "customer support: I got replacement but still defective",
+    "output": "We take quality seriously. Please share images and we will arrange a full refund or a different product this time."
+  },
+  {
+    "input": "customer support: I lost my return pickup receipt",
+    "output": "No worries. The pickup is still recorded in our system using your order ID. You can track it online."
+  },
+  {
+    "input": "customer support: can I return a product without the tag",
+    "output": "Tags must be intact for returns in most categories. If the tag was removed, our team will assess eligibility upon pickup."
+  },
+  {
+    "input": "customer support: how to know if my pincode is serviceable",
+    "output": "Enter your pincode on the product page or at the cart. It will show if delivery is available to your area."
+  },
+  {
+    "input": "customer support: I need to change my mobile number for OTP",
+    "output": "You can update your mobile number from account settings after verifying with your email and existing OTP."
+  },
+  {
+    "input": "customer support: I received a 'payment failed' message but bank shows deduction",
+    "output": "This is a pending transaction. It will be reversed within 48 hours if the order did not go through."
+  },
+  {
+    "input": "customer support: I want to pay with two cards",
+    "output": "Currently, we only support payment with a single card or payment method per order."
+  },
+  {
+    "input": "customer support: the 'Buy Now' button is not working",
+    "output": "Try refreshing the page or using the app. If the issue continues, the product may be temporarily out of stock."
+  },
+  {
+    "input": "customer support: how to use my credit note",
+    "output": "If you have a credit note, the amount auto-applies at checkout when you use the same account. Check your credits section."
+  },
+  {
+    "input": "customer support: I can't find my downloaded invoice",
+    "output": "Invoices are stored in your order history. Go to the specific order and click 'Download Invoice' again."
+  },
+  {
+    "input": "customer support: why was my order split even though I requested single delivery",
+    "output": "Orders from different sellers or warehouses may ship separately automatically for faster delivery."
+  },
+  {
+    "input": "customer support: my return got approved but pickup not scheduled",
+    "output": "After approval, you need to manually schedule a pickup slot from the returns page. Please check there."
+  },
+  {
+    "input": "customer support: I want to exchange an item for a higher priced variant",
+    "output": "Exchange is only for items of equal or lower price. For a higher priced variant, please return and place a new order."
+  },
+  {
+    "input": "customer support: the app keeps asking me to log in again",
+    "output": "This may happen due to a session timeout or app update. Please log in again and enable 'Remember Me' if available."
+  },
+  {
+    "input": "customer support: I received a product with a missing charger",
+    "output": "We apologize. If the charger is part of the box contents, we can send the missing item or arrange a replacement."
+  },
+  {
+    "input": "customer support: I want to check if my area has next-day delivery",
+    "output": "Next-day delivery depends on the product and your pincode. It will be displayed on the product page before checkout."
+  },
+  {
+    "input": "customer support: I placed an order but no SMS confirmation",
+    "output": "Please check if your mobile number was correct. SMS may be delayed; you can also check order status in your account."
+  },
+  {
+    "input": "customer support: can I use an international card for payment",
+    "output": "Yes, we accept international cards. If declined, please enable international transactions through your bank."
+  },
+  {
+    "input": "customer support: my refund was issued to a closed bank account",
+    "output": "If the account is closed, the refund usually bounces back to us. We will contact you to arrange an alternate refund."
+  },
+  {
+    "input": "customer support: how to apply for a replacement under warranty",
+    "output": "Visit the order details, select 'Claim Warranty' and follow the steps. You may need to upload product and defect images."
+  },
+  {
+    "input": "customer support: I want to return a product but the box is slightly damaged",
+    "output": "Slight damage to outer box is usually acceptable as long as the product and accessories are in original condition."
+  },
+  {
+    "input": "customer support: my order is showing 'cancellation in progress' for too long",
+    "output": "It usually completes in a few hours. If it's stuck beyond 24 hours, please share your order ID so we can check."
+  },
+  {
+    "input": "customer support: can I get an alert when item comes back in stock",
+    "output": "Yes, there is a 'Notify Me' button on out-of-stock product pages. Click it and we'll alert you via email/app."
+  },
+  {
+    "input": "customer support: I want to remove a product from my order before shipping",
+    "output": "Unfortunately, we cannot modify individual items after order is placed. You may need to cancel and reorder."
+  },
+  {
+    "input": "customer support: the product I received has a different serial number",
+    "output": "Serial numbers can vary. If you're concerned about authenticity, please contact support with images, we'll verify."
+  },
+  {
+    "input": "customer support: I'm moving houses, how to update address for future orders",
+    "output": "You can edit or add a new address in your account's address book and set it as default for next orders."
+  },
+  {
+    "input": "customer support: I clicked 'Return' but it says item not eligible",
+    "output": "Some items like intimate wear or perishables are non-returnable. Check the product page. If it should be eligible, contact us."
+  },
+  {
+    "input": "customer support: my bank charged extra fees for transaction",
+    "output": "We don't charge any extra fees. Some banks may levy cross-border or conversion charges. Please check with your bank."
+  },
+  {
+    "input": "customer support: I want to report a rude delivery person",
+    "output": "I'm sorry for your experience. Please share the order ID, and we'll escalate the complaint to the courier management."
+  },
+  {
+    "input": "customer support: I can't find my wishlist",
+    "output": "Ensure you're logged in. On the app, wishlist is usually in the account tab or a heart icon on the top bar."
+  },
+  {
+    "input": "customer support: how do I know if a coupon is applicable on my order",
+    "output": "Go to the cart, apply the coupon, and it will show if the code is valid and how much discount it provides."
+  },
+  {
+    "input": "customer support: I didn't receive my cashback despite meeting conditions",
+    "output": "Cashback may take 24-72 hours to process. Please check your wallet or bank statement; if missing, share order details."
+  },
+  {
+    "input": "customer support: the product I want is showing 'not deliverable to this pincode'",
+    "output": "Some products have location restrictions due to logistics or regulatory issues. You can try with a nearby alternate pincode."
+  },
+  {
+    "input": "customer support: my account got hacked",
+    "output": "I'm sorry. Please use 'Forgot Password' immediately. Then contact our support team to secure your account and orders."
+  },
+  {
+    "input": "customer support: I have a disability, can delivery be made inside my house",
+    "output": "We can request special assistance. Please mention this in delivery instructions and we'll forward to the courier partner."
+  },
+  {
+    "input": "customer support: how to get a letter for customs",
+    "output": "For international orders, we provide necessary commercial invoice. Contact support with your order ID for customs documentation."
+  },
+  {
+    "input": "customer support: my order was marked 'return to sender'",
+    "output": "This usually happens if delivery failed three times or address was incorrect. We'll refund once it returns to warehouse."
+  },
+  {
+    "input": "customer support: can I purchase a product on phone with a representative",
+    "output": "We don't support phone-based ordering. Please use our website or app for secure ordering."
+  },
+  {
+    "input": "customer support: I want to change my review from negative to positive",
+    "output": "You can edit or update your review from your order history. Look for the 'Edit Review' option."
+  },
+  {
+    "input": "customer support: my wallet money disappeared after app update",
+    "output": "Wallet balance is linked to your account, not the app version. Please check again; if still missing, share your account ID."
+  },
+  {
+    "input": "customer support: how to cancel auto-renewal of membership",
+    "output": "Go to your membership settings and turn off auto-renewal before the next billing date."
+  },
+  {
+    "input": "customer support: can I use my points and a coupon together",
+    "output": "Yes, generally you can combine reward points and a coupon, unless the coupon terms exclude other discounts."
+  },
+  {
+    "input": "customer support: I received a call asking to click a link for refund",
+    "output": "This is a phishing attempt. Never click unknown links. We never ask for personal banking info via call or SMS."
+  },
+  {
+    "input": "customer support: I want to buy an item but listing says 'seller contact info'",
+    "output": "You can contact the seller through the 'Ask a question' button on the product page before placing the order."
+  },
+  {
+    "input": "customer support: what is 'certified refurbished' mean",
+    "output": "Certified refurbished products are tested and restored to full functionality with a warranty, often with minor cosmetic flaws."
+  },
+  {
+    "input": "customer support: how to get replacement for item damaged during transit",
+    "output": "If the outer box was damaged, you can request a replacement while accepting the delivery or initiate return later with photos."
+  },
+  {
+    "input": "customer support: can I add gift message after order placed",
+    "output": "Gift message cannot be added after the order is placed. If it's not yet shipped, you can try canceling and reordering."
+  },
+  {
+    "input": "customer support: my debit card got blocked after payment attempt",
+    "output": "We don't block cards. Your bank might have flagged the transaction for security. Please contact your bank directly."
+  },
+  {
+    "input": "customer support: how to use a promotional credit",
+    "output": "Promotional credits appear at checkout automatically if eligible. You'll see a 'Apply Credits' option."
+  },
+  {
+    "input": "customer support: I want to return a product but courier not available in my location",
+    "output": "If return pickup is unavailable, you can self-ship the product via any courier and we'll reimburse the shipping after verification."
+  },
+  {
+    "input": "customer support: the app is not showing my order history",
+    "output": "You might be logged in with a different account. Please check the email or phone number. Guest orders won't appear."
+  },
+  {
+    "input": "customer support: my exchange request got canceled automatically",
+    "output": "It might have been canceled due to stock unavailability or a system error. Please initiate a new request or choose a refund."
+  },
+  {
+    "input": "customer support: I got an email saying 'order on hold' for verification",
+    "output": "Sometimes high-value orders are flagged for manual verification. Please respond to the email or contact chat support to verify."
+  },
+  {
+    "input": "customer support: I want to receive SMS updates instead of email",
+    "output": "You can change communication preferences in your account settings to receive SMS notifications."
+  },
+  {
+    "input": "customer support: can I exchange a product I bought from a different store",
+    "output": "We only handle exchanges for products purchased on our platform. Please contact the original retailer."
+  },
+  {
+    "input": "customer support: the price increased while I was adding to cart",
+    "output": "Prices are dynamic. The price at the time of order placement is final. Adding to cart does not lock the price."
+  },
+  {
+    "input": "customer support: I pressed 'Cancel' by mistake, please undo",
+    "output": "If the cancellation hasn't been processed yet, we can try to stop it. Please share your order ID immediately."
+  },
+  {
+    "input": "customer support: app not displaying product images properly",
+    "output": "This can be a connectivity issue. Try on Wi-Fi or clear app cache from settings. The next update should fix rendering."
+  },
+  {
+    "input": "customer support: I want to order but the website is blocked in my office network",
+    "output": "Try using mobile data or our app. You can also try incognito mode. It's a network restriction, not a site issue."
+  },
+  {
+    "input": "customer support: what does 'fulfilled by platform' guarantee",
+    "output": "It means the product is stored and shipped from our warehouse with faster delivery and assured quality checks."
+  },
+  {
+    "input": "customer support: can I have my order delivered to a locker",
+    "output": "Pickup lockers are available in selected cities. Choose 'Pickup at a nearby location' during checkout if available."
+  },
+  {
+    "input": "customer support: I received duplicate items in my order",
+    "output": "If you were not charged for the duplicate, it's likely an error. Please return the extra item and we'll assist."
+  },
+  {
+    "input": "customer support: I want to know the expiry date of my wallet cashback",
+    "output": "Check your wallet section; it shows the date of expiry for each credit. Once expired, it cannot be renewed."
+  },
+  {
+    "input": "customer support: how to report a phishing site pretending to be you",
+    "output": "Thank you for your vigilance. Please forward the suspicious link to our official phishing report email and we'll take action."
+  },
+  {
+    "input": "customer support: I got a delivery but the seal was broken",
+    "output": "If the product seal was broken, do not accept the delivery. Insist on noting it with the delivery person. Contact us for return."
+  },
+  {
+    "input": "customer support: my order was placed twice, please combine them",
+    "output": "We cannot combine two separate orders. But we can cancel one if it's still possible, leaving the other to be shipped."
+  },
+  {
+    "input": "customer support: I want to donate my loyalty points",
+    "output": "At the moment, there's no option to donate points. They can be redeemed only on purchases."
+  },
+  {
+    "input": "customer support: can I return an item if I just don't like it",
+    "output": "Returns for 'change of mind' are allowed within the return window for most items, as long as the product is unopened/unused."
+  },
+  {
+    "input": "customer support: I need to complain about a seller",
+    "output": "Please go to your order details, click 'Report seller', and provide the issue description. Our marketplace team will review."
+  },
+  {
+    "input": "customer support: can you tell me the status of my complaint",
+    "output": "Sure, share your complaint reference number and I'll check the latest update from our backend."
+  },
+  {
+    "input": "customer support: who is the prime minister of canada",
+    "output": "I can only help with e-commerce related support queries such as orders, refunds and exchanges."
+  },
+  {
+    "input": "customer support: what is the stock market index today",
+    "output": "I am only trained to handle customer support requests related to e-commerce services."
+  },
+  {
+    "input": "customer support: can you fix my computer",
+    "output": "I can only assist with order related queries. Please ask about your orders or payments."
+  }
+]
